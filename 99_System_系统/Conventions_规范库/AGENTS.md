@@ -1,6 +1,6 @@
 # AI 协作规则
 
-- 编辑前先阅读 `HOME.md` 和目标目录的 `README.md`。
+- 编辑前先阅读 `HOME.canvas` 和目标目录的 `README.md`。
 - 新内容按下一步用途放入 Inbox、Projects、Knowledge、Archive 或 System。
 - 不确定时放 Inbox，不创建新的顶层目录。
 - 内部笔记使用 `[[双链]]`，外部网页使用标准 Markdown 链接。
