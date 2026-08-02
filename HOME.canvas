@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6bff30a4e91c2d78","type":"text","x":-600,"y":-520,"width":1160,"height":220,"color":"4","text":"# 🎯 当前焦点\n\n- [ ] 写下现在最重要的一件事\n\n**下一步：** 新材料先放入 [[00_Inbox_收集箱/README|收集箱]]；有明确完成条件的事进入 [[01_Projects_项目/README|项目]]。第一次使用请看 [[99_System_系统/Conventions_规范库/人机协作快速入门|人机协作快速入门]]。"},
+		{"id":"12eae736c40b598f","type":"text","x":-600,"y":-240,"width":360,"height":500,"color":"3","text":"## 📥 Inbox · 收集箱\n\n> 尚未确定下一步用途的内容。\n\n[[00_Inbox_收集箱/README|使用说明]]\n\n```query\npath:\"00_Inbox_收集箱\" -file:\"README\"\n```"},
+		{"id":"8c195a2e36df074b","type":"text","x":-200,"y":-240,"width":360,"height":500,"color":"2","text":"## 🔥 Projects · 项目\n\n> 有目标、交付物或完成条件的事项。\n\n[[01_Projects_项目/README|使用说明]] · [[99_System_系统/Templates_模板库/T_项目首页|项目首页模板]]\n\n```query\npath:\"01_Projects_项目\" -file:\"README\"\n```"},
+		{"id":"5d08ab93efc61472","type":"text","x":200,"y":-240,"width":360,"height":500,"color":"5","text":"## 💡 Knowledge · 知识\n\n> 会继续查阅、学习或复用的主题知识。\n\n[[02_Knowledge_知识库/README|使用说明]] · [[99_System_系统/Templates_模板库/T_知识笔记|知识笔记模板]]\n\n```query\npath:\"02_Knowledge_知识库\" -file:\"README\"\n```"},
+		{"id":"a4867bd150ce239f","type":"text","x":-400,"y":300,"width":360,"height":500,"text":"## 📦 Archive · 归档\n\n> 已结束、但仍需保留上下文的内容。\n\n[[03_Archive_归档/README|使用说明]]\n\n```query\npath:\"03_Archive_归档\" -file:\"README\"\n```"},
+		{"id":"f337e09c814a6d52","type":"text","x":0,"y":300,"width":360,"height":500,"color":"6","text":"## ⚙️ System · 系统\n\n> 模板、规范、附件与知识库设置。\n\n- [[99_System_系统/Conventions_规范库/使用规范|使用规范]]\n- [[99_System_系统/Conventions_规范库/人机协作快速入门|人机协作快速入门]]\n- [[99_System_系统/Templates_模板库/README|模板库]]\n- [[99_System_系统/Templates_模板库/T_AI任务卡|AI 任务卡]]\n- [[99_System_系统/README|系统目录说明]]"}
+	],
+	"edges":[]
+}
